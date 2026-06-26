@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4adc92c1-77aa-4f9b-a5a7-c86ba1d3fc23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/club_management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/club_management/src/main/java/com/gaoyu/club_management/ClubManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/club_management/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/club_management/src/test/java/com/gaoyu/club_management/ClubManagementApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-AOP-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-AOP-demo/src/main/java/com/gaoyu/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-AOP-demo/src/main/java/com/gaoyu/aspect/LogAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-AOP-demo/src/main/java/com/gaoyu/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-AOP-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/main/java/com/gaoyu/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/main/java/com/gaoyu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/main/java/com/gaoyu/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/main/java/com/gaoyu/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/main/resources/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/src/test/java/com/gaoyu/mapper/UserMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/java/com/gaoyu/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/java/com/gaoyu/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/java/com/gaoyu/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/java/com/gaoyu/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/java/com/gaoyu/interceptor/MyInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start-springmvc-demo/src/main/resources/static/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/gaoyu/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/gaoyu/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/classes/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/target/spring-boot-start-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/java/com/gaoyu/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/java/com/gaoyu/controller/DataSourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/java/com/gaoyu/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/java/com/gaoyu/entity/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/java/com/gaoyu/mapper/DeptMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/main/resources/mappers/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/test/java/com/gaoyu/mapper/DeptMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-druid-demo/src/test/java/com/gaoyu/mapper/LambdaTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/club_management" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.9.12" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.9.12\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="3Ffe4CdQ5uEZOafO1PvEV4kAGuJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "21",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClubManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="club_management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaoyu.club_management.ClubManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4adc92c1-77aa-4f9b-a5a7-c86ba1d3fc23" name="Changes" comment="" />
+      <created>1782470359154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782470359154</updated>
+      <workItem from="1782470360040" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
