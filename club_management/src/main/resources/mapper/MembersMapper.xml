@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gaoyu.mapper.MembersMapper">
+
+    <resultMap id="BaseResultMap" type="com.gaoyu.entity.Members">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="studentId" column="student_id" jdbcType="CHAR"/>
+            <result property="clubId" column="club_id" jdbcType="INTEGER"/>
+            <result property="role" column="role" jdbcType="OTHER"/>
+            <result property="joinDate" column="join_date" jdbcType="DATE"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,student_id,club_id,
+        role,join_date
+    </sql>
+</mapper>

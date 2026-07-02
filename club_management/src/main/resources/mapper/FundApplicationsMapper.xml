@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gaoyu.mapper.FundApplicationsMapper">
+
+    <resultMap id="BaseResultMap" type="com.gaoyu.entity.FundApplications">
+            <id property="appId" column="app_id" jdbcType="INTEGER"/>
+            <result property="activityId" column="activity_id" jdbcType="INTEGER"/>
+            <result property="applicantId" column="applicant_id" jdbcType="CHAR"/>
+            <result property="amount" column="amount" jdbcType="DECIMAL"/>
+            <result property="reason" column="reason" jdbcType="VARCHAR"/>
+            <result property="status" column="status" jdbcType="OTHER"/>
+            <result property="auditTime" column="audit_time" jdbcType="TIMESTAMP"/>
+            <result property="auditorId" column="auditor_id" jdbcType="CHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        app_id,activity_id,applicant_id,
+        amount,reason,status,
+        audit_time,auditor_id
+    </sql>
+</mapper>
